@@ -3,6 +3,9 @@
 Este projeto foi desenvolvido como parte de um desafio da plataforma **DIO**, com o objetivo de extrair insights estratégicos a partir de uma base de dados fictícia, utilizando **Microsoft Excel** para tratamento dos dados e **Power BI** para modelagem, visualização e análise.
 
 ---
+<img width="4150" height="2400" alt="Image" src="https://github.com/user-attachments/assets/47c1c311-962f-4115-8487-0683f18f97bb" />
+
+<img width="4150" height="2400" alt="Image" src="https://github.com/user-attachments/assets/263f8002-e516-43ef-8bb6-be0d9495cfbf" />
 
 ## 🎯 Objetivo
 
